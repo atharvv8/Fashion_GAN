@@ -26,16 +26,15 @@ git clone https://github.com/atharvv8/Fashion_GAN
 ```
 ### Run the Notebook
 
-1. Open `fashion_mnist_gan.ipynb` in a Jupyter Notebook environment.
+1. Open `Generating_Fashion_Designs.ipynb` in a Jupyter Notebook environment.
 2. Execute the code cells sequentially.
 
 ## Project Structure
 
 ```plaintext
 fashion_mnist_gan/
-├── fashion_mnist_gan.ipynb  # The main notebook containing the GAN implementation
+├── Generating_Fashion_Designs.ipynb  # The main notebook containing the GAN implementation
 ├── README.md                # This file (you're here!)
-└── training_checkpoints/    # (Optional) Directory to store model checkpoints during training
 
 ## Model Architecture
 
