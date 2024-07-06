@@ -35,7 +35,7 @@ git clone https://github.com/atharvv8/Fashion_GAN
 fashion_mnist_gan/
 ├── Generating_Fashion_Designs.ipynb  # The main notebook containing the GAN implementation
 ├── README.md                # This file (you're here!)
-
+```
 ## Model Architecture
 
 ### Generator
