@@ -22,8 +22,8 @@ This project implements a Deep Convolutional Generative Adversarial Network (DCG
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/fashion-mnist-gan.git
-
+git clone https://github.com/atharvv8/Fashion_GAN
+```
 ### Run the Notebook
 
 1. Open `fashion_mnist_gan.ipynb` in a Jupyter Notebook environment.
